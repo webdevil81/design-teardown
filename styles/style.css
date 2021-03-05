@@ -32,7 +32,8 @@ nav {
 
 .logo {
     height: 60px;
-    
+    display: flex;
+    align-self: flex-end;
 }
 
 .search {
